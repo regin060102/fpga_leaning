@@ -1,0 +1,30 @@
+# 编译/综合产物
+*.bit
+*.bin
+*.sof
+*.rbf
+*.jic
+
+# 仿真文件
+*.vcd
+*.saif
+*.fsdb
+
+# EDA工具临时文件
+*.bak
+*.log
+*.jou
+*.pb
+*.wlf
+
+# 综合中间文件
+*.ngc
+*.ngr
+*.ngd
+*.xrpt
+
+# 特定厂商工具目录
+.Xilinx/
+.quartus/
+.intelFPGA/
+
